@@ -28,6 +28,12 @@ body {
     background-color: #555555;
 }
 
+.carousel-caption h1{
+    font-size: 30pt;
+    color: white;
+}
+
+
 /*
  * Sidebar
  */
@@ -53,6 +59,10 @@ body {
     .img-responsive{
         height:100px;
         width: 100px;
+    }
+    .carousel-caption h1{
+        font-size: 20pt;
+        color: white;
     }
 }
 
@@ -164,8 +174,4 @@ body {
     margin-left: auto;*/
     width: 100%;
 
-}
-.carousel-caption h1{
-    font-size: 30pt;
-    color: #cccccc;
 }
