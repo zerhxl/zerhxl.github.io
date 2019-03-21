@@ -42,3 +42,7 @@
     color: #444444; /* IE8 proofing */
     color: rgba(68, 68, 68, 0.5);
 }
+
+navbar-inverse{
+    backgrondcolor: #cccccc;
+}

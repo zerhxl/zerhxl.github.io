@@ -71,6 +71,9 @@ body {
     background-color: #428bca;
 }
 
+.navbar{
+    background-color: #555555;
+}
 
 /*
  * Main content
@@ -106,7 +109,7 @@ body {
 }
 .placeholder img {
     display: inline-block;
-    border-radius: 50%;
+    border-radius: 30%;
 }
 .placeholder i{
     font-size: 13pt;
