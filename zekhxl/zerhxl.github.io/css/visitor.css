@@ -1,0 +1,44 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 15%;
+    background-color: black;
+}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+    border: 0;
+}
+
+/*
+ * Sidebar
+ */
+.globe{
+    text-align: center;
+}
+
+ul{
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    padding: 20px;
+    font-size: 15pt;
+    list-style-type: none;
+}
+
+li a:hover{
+
+    color: #555;/* 颜色 */
+    font-size: 18pt; /* 字号 */
+    font-weight: bold;/* 加粗 */
+    text-decoration: none;
+
+
+}
+

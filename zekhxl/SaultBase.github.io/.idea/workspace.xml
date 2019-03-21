@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c925f9cc-4a32-4103-92f2-6a818e15e2e3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_site/css/blog.css" />
+        <option value="$PROJECT_DIR$/_site/css/custom.css" />
+        <option value="$PROJECT_DIR$/_site/css/main.css" />
+        <option value="$PROJECT_DIR$/_site/custom/main.css" />
+        <option value="$PROJECT_DIR$/_site/blog/index.html" />
+        <option value="$PROJECT_DIR$/custom/main.css" />
+        <option value="$PROJECT_DIR$/about/about.html" />
+        <option value="$PROJECT_DIR$/wish_tree/wish.html" />
+        <option value="$PROJECT_DIR$/css/blog2.css" />
+        <option value="$PROJECT_DIR$/css/blog2_1.html" />
+        <option value="$PROJECT_DIR$/css/blog2_1.css" />
+        <option value="$PROJECT_DIR$/visitor/visitor.html" />
+        <option value="$PROJECT_DIR$/css/visitor.css" />
+        <option value="$PROJECT_DIR$/about/about.css" />
+        <option value="$PROJECT_DIR$/css/blog_1.css" />
+        <option value="$PROJECT_DIR$/_layouts/blog2.html" />
+        <option value="$PROJECT_DIR$/_layouts/blog_page.html" />
+        <option value="$PROJECT_DIR$/css/blog_page.css" />
+        <option value="$PROJECT_DIR$/blog_page/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/about.html" />
+        <option value="$PROJECT_DIR$/space/space.css" />
+        <option value="$PROJECT_DIR$/visitor/index.html" />
+        <option value="$PROJECT_DIR$/css/essay.css" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
+        <option value="$PROJECT_DIR$/css/blog.css" />
+        <option value="$PROJECT_DIR$/_layouts/essay.html" />
+        <option value="$PROJECT_DIR$/_layouts/blog.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/space/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/space.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="243" />
+    <option name="y" value="154" />
+    <option name="width" value="1611" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SaultBase.github.io" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SaultBase.github.io/about/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c925f9cc-4a32-4103-92f2-6a818e15e2e3" name="Default Changelist" comment="" />
+      <created>1552793450039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552793450039</updated>
+      <workItem from="1552793451383" duration="10197000" />
+      <workItem from="1552806837546" duration="77001000" />
+      <workItem from="1553000373185" duration="18866000" />
+      <workItem from="1553128702015" duration="6134000" />
+      <workItem from="1553142325268" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112219000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="243" y="154" width="1611" height="977" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21741894" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992674" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.060462672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992674" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/_site/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/_site/icon/github4.png" />
+    <entry file="file://$PROJECT_DIR$/_site/icon/email2.png" />
+    <entry file="file://$PROJECT_DIR$/_site/blog/index.html" />
+    <entry file="file://$PROJECT_DIR$/_site/index.html" />
+    <entry file="file://$PROJECT_DIR$/_site/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/_site/custom/main.css" />
+    <entry file="file://$PROJECT_DIR$/icon/wechat.jpg" />
+    <entry file="file://$PROJECT_DIR$/about/about.html" />
+    <entry file="file://$PROJECT_DIR$/_site/css/blog.css" />
+    <entry file="file://$PROJECT_DIR$/wish_tree/wish.html" />
+    <entry file="file://$PROJECT_DIR$/css/blog2_1.html" />
+    <entry file="file://$PROJECT_DIR$/css/blog2_1.css" />
+    <entry file="file://$PROJECT_DIR$/visitor/visitor.html" />
+    <entry file="file://$PROJECT_DIR$/css/visitor.css" />
+    <entry file="file://$PROJECT_DIR$/css/blog2.css" />
+    <entry file="file://$PROJECT_DIR$/about/about.css" />
+    <entry file="file://$PROJECT_DIR$/custom/main.css" />
+    <entry file="file://$PROJECT_DIR$/css/blog_1.css" />
+    <entry file="file://$PROJECT_DIR$/_layouts/blog2.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/blog_page.html" />
+    <entry file="file://$PROJECT_DIR$/css/blog_page.css" />
+    <entry file="file://$PROJECT_DIR$/blog_page/index.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/about.html" />
+    <entry file="file://$PROJECT_DIR$/icon/page.jpg" />
+    <entry file="file://$PROJECT_DIR$/css/blog.css" />
+    <entry file="file://$PROJECT_DIR$/css/essay.css" />
+    <entry file="file://$PROJECT_DIR$/visitor/index.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/essay.html" />
+    <entry file="file://$PROJECT_DIR$/blog/index.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/blog.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/space/index.html" />
+    <entry file="file://$PROJECT_DIR$/about/index.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/space.html" />
+    <entry file="file://$PROJECT_DIR$/space/space.css" />
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
+  </component>
+</project>
