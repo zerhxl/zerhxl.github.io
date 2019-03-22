@@ -3,9 +3,13 @@ layout: essay
 ---
 
 <!--div-- class="col-xs-8 col-md-10 blog_content"-->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <div class="blog_content">
   <h1>{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }}</p>
+  <span class="meta">{{ page.date | date_to_string }}</span> |
+  <span id="busuanzi_container_page_pv">
+    总阅读量<span id="busuanzi_value_page_pv"></span>
+  </span>
 
   <div class="post" style="text-align:justify; text-justify:inter-ideograph">
     {{ content }}
