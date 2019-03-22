@@ -120,8 +120,6 @@ body {
     padding: 10px;
 }
 .placeholder img {
-    height: 256px;
-    width: 256px;
     display: inline-block;
     border-radius: 20%;
 }
