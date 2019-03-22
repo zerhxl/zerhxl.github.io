@@ -61,7 +61,7 @@ body {
         width: 100px;
     }
     .carousel-caption h1{
-        font-size: 20pt;
+        font-size: 18pt;
         color: white;
     }
 }
@@ -141,6 +141,7 @@ body {
     text-align: justify;
 
 }
+
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
