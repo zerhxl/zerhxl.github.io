@@ -7,8 +7,12 @@ layout: essay
 <div class="blog_content">
   <h1>{{ page.title }}</h1>
   <span class="meta">{{ page.date | date_to_string }}</span> |
-  <span id="busuanzi_container_page_pv">
+  <!--span id="busuanzi_container_page_pv">
     总阅读量<span id="busuanzi_value_page_pv"></span>
+  </span-->
+
+  <span id="busuanzi_container_site_pv" style="display:none;">
+    <i class="fa fa-spinner"></i>总阅读量<span id="busuanzi_value_site_uv">
   </span>
 
   <div class="post" style="text-align:justify; text-justify:inter-ideograph">
